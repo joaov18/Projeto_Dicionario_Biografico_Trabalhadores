@@ -1,0 +1,7 @@
+{
+  "name": "dicionario_biografico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
